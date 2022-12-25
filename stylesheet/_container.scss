@@ -1,0 +1,17 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 30px;
+  justify-content: space-evenly;
+  border: $color-blue;
+      .grid-container {
+       text-align: center;
+       @include imageFlex();
+       background-image: url("./images/img_istockphoto.png");  
+          .container-button {
+            top: 60%;
+            left: 50%;
+            cursor: pointer;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+      }}}

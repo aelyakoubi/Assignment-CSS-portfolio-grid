@@ -1,0 +1,14 @@
+$color-gray: #c3cfe2;
+$color-black:rgb(7, 7, 7);
+$color-aqua: rgb(27, 151, 141);
+$color-blue: lightblue;
+
+@mixin imageFlex {
+    height: 350px;
+    margin: 20px;
+    background-color: $color-blue;
+    position: relative;
+    border-radius: 3%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
