@@ -7,8 +7,8 @@ Set up:
 Download for VSC ```Live server```, ``` Go Live```
 -----------------------------------------------------
 
-Watch the mp4 videoclip with the following link below:
-https://github.com/aelyakoubi/Assignment-CSS-portfolio-grid/assets/115151631/02e1826e-2560-458a-94ad-b77b00bd55f2
+Click on the following link below:
+https://65c5371ac4c9ae0de9ab394f--frabjous-moonbeam-5d4f48.netlify.app
 -------------------------------------------------------------------------------------------------------------------------
 ![CSS portfolio 00](https://github.com/aelyakoubi/Assignment-CSS-portfolio-grid/assets/115151631/74849d28-8e75-4702-a3fe-aa53c4a813b2)
 ---------------------------------------------
